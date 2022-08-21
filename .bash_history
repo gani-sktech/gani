@@ -98,3 +98,8 @@ git commit
 git commit -m "second commit"
 git log
 git push gani master
+git init
+pwd
+ls
+touch gaaaa
+vi
