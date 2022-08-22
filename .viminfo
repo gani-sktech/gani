@@ -14,16 +14,16 @@
 $
 
 # Command Line History (newest to oldest):
-:q
-|2,0,1661103942,,"q"
-:wq!
-|2,0,1661103162,,"wq!"
 :wq
-|2,0,1661103147,,"wq"
+|2,0,1661181987,,"wq"
+:q
+|2,0,1661180113,,"q"
+:q!
+|2,0,1661180065,,"q!"
+:wq!
+|2,0,1661180037,,"wq!"
 :w
 |2,0,1661103132,,"w"
-:q!
-|2,0,1661068626,,"q!"
 
 # Search String History (newest to oldest):
 ? @$
@@ -37,19 +37,22 @@ $
 
 # Registers:
 ""1	LINE	0
+	ganesh jn 
+|3,1,1,1,1,0,1661180056,"ganesh jn "
+"2	LINE	0
 	 morampalli 
 	chilamathur
-|3,1,1,1,2,0,1661103135," morampalli ","chilamathur"
-"2	LINE	0
-	#
-|3,0,2,1,1,0,1661103029,"#"
+|3,0,2,1,2,0,1661103135," morampalli ","chilamathur"
 "3	LINE	0
-	
-	
-|3,0,3,1,2,0,1661103029,"",""
-"4	LINE	0
 	#
-|3,0,4,1,1,0,1661067286,"#"
+|3,0,3,1,1,0,1661103029,"#"
+"4	LINE	0
+	
+	
+|3,0,4,1,2,0,1661103029,"",""
+"5	LINE	0
+	#
+|3,0,5,1,1,0,1661067286,"#"
 "i	CHAR	0
 	w
 |3,0,18,0,1,0,1661068536,"w"
@@ -58,28 +61,158 @@ $
 |3,0,36,0,1,0,1661103027,"#"
 
 # File marks:
-'0  3  0  ~/jn
-|4,48,3,0,1661098213,"~/jn"
-'1  18  0  ~/.git/COMMIT_EDITMSG
-|4,49,18,0,1661067297,"~/.git/COMMIT_EDITMSG"
-'2  1  0  ~/.git/COMMIT_EDITMSG
-|4,50,1,0,1661067191,"~/.git/COMMIT_EDITMSG"
-'3  1  0  ~/.git/COMMIT_EDITMSG
-|4,51,1,0,1661067191,"~/.git/COMMIT_EDITMSG"
-'4  3  16  ~/ganesh
-|4,52,3,16,1661067030,"~/ganesh"
-'5  3  0  ~/ganesh
-|4,53,3,0,1661066890,"~/ganesh"
-'6  8  0  ~/gani
-|4,54,8,0,1661066849,"~/gani"
-'7  16  6  /usr/share/vim/vim82/doc/help.txt
-|4,55,16,6,1661025252,"/usr/share/vim/vim82/doc/help.txt"
-'8  1  35  /usr/share/vim/vim82/doc/help.txt
-|4,56,1,35,1661024922,"/usr/share/vim/vim82/doc/help.txt"
-'9  1  35  /usr/share/vim/vim82/doc/help.txt
-|4,57,1,35,1661024922,"/usr/share/vim/vim82/doc/help.txt"
+'0  1  9  ~/somu
+|4,48,1,9,1661181987,"~/somu"
+'1  2  0  ~/sktech
+|4,49,2,0,1661180162,"~/sktech"
+'2  3  0  ~/jn
+|4,50,3,0,1661180113,"~/jn"
+'3  3  0  ~/jn
+|4,51,3,0,1661098213,"~/jn"
+'4  18  0  ~/.git/COMMIT_EDITMSG
+|4,52,18,0,1661067297,"~/.git/COMMIT_EDITMSG"
+'5  1  0  ~/.git/COMMIT_EDITMSG
+|4,53,1,0,1661067191,"~/.git/COMMIT_EDITMSG"
+'6  1  0  ~/.git/COMMIT_EDITMSG
+|4,54,1,0,1661067191,"~/.git/COMMIT_EDITMSG"
+'7  3  16  ~/ganesh
+|4,55,3,16,1661067030,"~/ganesh"
+'8  3  0  ~/ganesh
+|4,56,3,0,1661066890,"~/ganesh"
+'9  8  0  ~/gani
+|4,57,8,0,1661066849,"~/gani"
 
 # Jumplist (newest first):
+-'  1  9  ~/somu
+|4,39,1,9,1661181987,"~/somu"
+-'  2  0  ~/sktech
+|4,39,2,0,1661180162,"~/sktech"
+-'  2  0  ~/sktech
+|4,39,2,0,1661180162,"~/sktech"
+-'  1  0  ~/sktech
+|4,39,1,0,1661180126,"~/sktech"
+-'  1  0  ~/sktech
+|4,39,1,0,1661180126,"~/sktech"
+-'  3  0  ~/jn
+|4,39,3,0,1661180113,"~/jn"
+-'  3  0  ~/jn
+|4,39,3,0,1661180113,"~/jn"
+-'  3  0  ~/jn
+|4,39,3,0,1661180113,"~/jn"
+-'  3  0  ~/jn
+|4,39,3,0,1661180113,"~/jn"
+-'  3  0  ~/jn
+|4,39,3,0,1661098213,"~/jn"
+-'  3  0  ~/jn
+|4,39,3,0,1661098213,"~/jn"
+-'  3  0  ~/jn
+|4,39,3,0,1661098213,"~/jn"
+-'  3  0  ~/jn
+|4,39,3,0,1661098213,"~/jn"
+-'  3  0  ~/jn
+|4,39,3,0,1661098213,"~/jn"
+-'  3  0  ~/jn
+|4,39,3,0,1661098213,"~/jn"
+-'  3  0  ~/jn
+|4,39,3,0,1661098213,"~/jn"
+-'  3  0  ~/jn
+|4,39,3,0,1661098213,"~/jn"
+-'  3  0  ~/jn
+|4,39,3,0,1661098213,"~/jn"
+-'  3  0  ~/jn
+|4,39,3,0,1661098213,"~/jn"
+-'  3  0  ~/jn
+|4,39,3,0,1661098213,"~/jn"
+-'  3  0  ~/jn
+|4,39,3,0,1661098213,"~/jn"
+-'  3  0  ~/jn
+|4,39,3,0,1661098213,"~/jn"
+-'  3  0  ~/jn
+|4,39,3,0,1661098213,"~/jn"
+-'  3  0  ~/jn
+|4,39,3,0,1661098213,"~/jn"
+-'  3  0  ~/jn
+|4,39,3,0,1661098213,"~/jn"
+-'  3  0  ~/jn
+|4,39,3,0,1661098213,"~/jn"
+-'  3  0  ~/jn
+|4,39,3,0,1661098213,"~/jn"
+-'  3  0  ~/jn
+|4,39,3,0,1661098213,"~/jn"
+-'  3  0  ~/jn
+|4,39,3,0,1661098213,"~/jn"
+-'  3  0  ~/jn
+|4,39,3,0,1661098213,"~/jn"
+-'  3  0  ~/jn
+|4,39,3,0,1661098213,"~/jn"
+-'  3  0  ~/jn
+|4,39,3,0,1661098213,"~/jn"
+-'  3  0  ~/jn
+|4,39,3,0,1661098213,"~/jn"
+-'  3  0  ~/jn
+|4,39,3,0,1661098213,"~/jn"
+-'  3  0  ~/jn
+|4,39,3,0,1661098213,"~/jn"
+-'  3  0  ~/jn
+|4,39,3,0,1661098213,"~/jn"
+-'  3  0  ~/jn
+|4,39,3,0,1661098213,"~/jn"
+-'  3  0  ~/jn
+|4,39,3,0,1661098213,"~/jn"
+-'  3  0  ~/jn
+|4,39,3,0,1661098213,"~/jn"
+-'  3  0  ~/jn
+|4,39,3,0,1661098213,"~/jn"
+-'  3  0  ~/jn
+|4,39,3,0,1661098213,"~/jn"
+-'  3  0  ~/jn
+|4,39,3,0,1661098213,"~/jn"
+-'  3  0  ~/jn
+|4,39,3,0,1661098213,"~/jn"
+-'  3  0  ~/jn
+|4,39,3,0,1661098213,"~/jn"
+-'  3  0  ~/jn
+|4,39,3,0,1661098213,"~/jn"
+-'  3  0  ~/jn
+|4,39,3,0,1661098213,"~/jn"
+-'  3  0  ~/jn
+|4,39,3,0,1661098213,"~/jn"
+-'  3  0  ~/jn
+|4,39,3,0,1661098213,"~/jn"
+-'  3  0  ~/jn
+|4,39,3,0,1661098213,"~/jn"
+-'  3  0  ~/jn
+|4,39,3,0,1661098213,"~/jn"
+-'  3  0  ~/jn
+|4,39,3,0,1661098213,"~/jn"
+-'  3  0  ~/jn
+|4,39,3,0,1661098213,"~/jn"
+-'  3  0  ~/jn
+|4,39,3,0,1661098213,"~/jn"
+-'  3  0  ~/jn
+|4,39,3,0,1661098213,"~/jn"
+-'  3  0  ~/jn
+|4,39,3,0,1661098213,"~/jn"
+-'  3  0  ~/jn
+|4,39,3,0,1661098213,"~/jn"
+-'  3  0  ~/jn
+|4,39,3,0,1661098213,"~/jn"
+-'  3  0  ~/jn
+|4,39,3,0,1661098213,"~/jn"
+-'  3  0  ~/jn
+|4,39,3,0,1661098213,"~/jn"
+-'  3  0  ~/jn
+|4,39,3,0,1661098213,"~/jn"
+-'  3  0  ~/jn
+|4,39,3,0,1661098213,"~/jn"
+-'  3  0  ~/jn
+|4,39,3,0,1661098213,"~/jn"
+-'  3  0  ~/jn
+|4,39,3,0,1661098213,"~/jn"
+-'  3  0  ~/jn
+|4,39,3,0,1661098213,"~/jn"
+-'  3  0  ~/jn
+|4,39,3,0,1661098213,"~/jn"
 -'  3  0  ~/jn
 |4,39,3,0,1661098213,"~/jn"
 -'  3  0  ~/jn
@@ -112,177 +245,63 @@ $
 |4,39,1,0,1661098176,"~/jn"
 -'  1  0  ~/jn
 |4,39,1,0,1661098176,"~/jn"
--'  18  0  ~/.git/COMMIT_EDITMSG
-|4,39,18,0,1661067297,"~/.git/COMMIT_EDITMSG"
--'  18  0  ~/.git/COMMIT_EDITMSG
-|4,39,18,0,1661067297,"~/.git/COMMIT_EDITMSG"
--'  18  0  ~/.git/COMMIT_EDITMSG
-|4,39,18,0,1661067297,"~/.git/COMMIT_EDITMSG"
--'  18  0  ~/.git/COMMIT_EDITMSG
-|4,39,18,0,1661067297,"~/.git/COMMIT_EDITMSG"
--'  18  0  ~/.git/COMMIT_EDITMSG
-|4,39,18,0,1661067297,"~/.git/COMMIT_EDITMSG"
--'  18  0  ~/.git/COMMIT_EDITMSG
-|4,39,18,0,1661067297,"~/.git/COMMIT_EDITMSG"
--'  18  0  ~/.git/COMMIT_EDITMSG
-|4,39,18,0,1661067297,"~/.git/COMMIT_EDITMSG"
--'  18  0  ~/.git/COMMIT_EDITMSG
-|4,39,18,0,1661067297,"~/.git/COMMIT_EDITMSG"
--'  18  0  ~/.git/COMMIT_EDITMSG
-|4,39,18,0,1661067297,"~/.git/COMMIT_EDITMSG"
--'  18  0  ~/.git/COMMIT_EDITMSG
-|4,39,18,0,1661067297,"~/.git/COMMIT_EDITMSG"
--'  18  0  ~/.git/COMMIT_EDITMSG
-|4,39,18,0,1661067297,"~/.git/COMMIT_EDITMSG"
--'  18  0  ~/.git/COMMIT_EDITMSG
-|4,39,18,0,1661067297,"~/.git/COMMIT_EDITMSG"
--'  18  0  ~/.git/COMMIT_EDITMSG
-|4,39,18,0,1661067297,"~/.git/COMMIT_EDITMSG"
--'  18  0  ~/.git/COMMIT_EDITMSG
-|4,39,18,0,1661067297,"~/.git/COMMIT_EDITMSG"
--'  18  0  ~/.git/COMMIT_EDITMSG
-|4,39,18,0,1661067297,"~/.git/COMMIT_EDITMSG"
--'  18  0  ~/.git/COMMIT_EDITMSG
-|4,39,18,0,1661067297,"~/.git/COMMIT_EDITMSG"
--'  18  0  ~/.git/COMMIT_EDITMSG
-|4,39,18,0,1661067297,"~/.git/COMMIT_EDITMSG"
--'  18  0  ~/.git/COMMIT_EDITMSG
-|4,39,18,0,1661067297,"~/.git/COMMIT_EDITMSG"
--'  18  0  ~/.git/COMMIT_EDITMSG
-|4,39,18,0,1661067297,"~/.git/COMMIT_EDITMSG"
--'  18  0  ~/.git/COMMIT_EDITMSG
-|4,39,18,0,1661067297,"~/.git/COMMIT_EDITMSG"
--'  18  0  ~/.git/COMMIT_EDITMSG
-|4,39,18,0,1661067297,"~/.git/COMMIT_EDITMSG"
--'  18  0  ~/.git/COMMIT_EDITMSG
-|4,39,18,0,1661067297,"~/.git/COMMIT_EDITMSG"
--'  18  0  ~/.git/COMMIT_EDITMSG
-|4,39,18,0,1661067297,"~/.git/COMMIT_EDITMSG"
--'  18  0  ~/.git/COMMIT_EDITMSG
-|4,39,18,0,1661067297,"~/.git/COMMIT_EDITMSG"
--'  18  0  ~/.git/COMMIT_EDITMSG
-|4,39,18,0,1661067297,"~/.git/COMMIT_EDITMSG"
--'  18  0  ~/.git/COMMIT_EDITMSG
-|4,39,18,0,1661067297,"~/.git/COMMIT_EDITMSG"
--'  18  0  ~/.git/COMMIT_EDITMSG
-|4,39,18,0,1661067297,"~/.git/COMMIT_EDITMSG"
--'  18  0  ~/.git/COMMIT_EDITMSG
-|4,39,18,0,1661067297,"~/.git/COMMIT_EDITMSG"
--'  18  0  ~/.git/COMMIT_EDITMSG
-|4,39,18,0,1661067297,"~/.git/COMMIT_EDITMSG"
--'  18  0  ~/.git/COMMIT_EDITMSG
-|4,39,18,0,1661067297,"~/.git/COMMIT_EDITMSG"
--'  18  0  ~/.git/COMMIT_EDITMSG
-|4,39,18,0,1661067297,"~/.git/COMMIT_EDITMSG"
--'  18  0  ~/.git/COMMIT_EDITMSG
-|4,39,18,0,1661067297,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1661067266,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1661067266,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1661067266,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1661067266,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1661067266,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1661067266,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1661067266,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1661067266,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1661067266,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1661067266,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1661067266,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1661067266,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1661067266,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1661067266,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1661067266,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1661067266,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1661067266,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1661067266,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1661067266,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1661067266,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1661067266,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1661067266,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1661067266,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1661067266,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1661067266,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1661067266,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1661067266,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1661067266,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1661067266,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1661067266,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1661067266,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1661067266,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1661067191,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1661067191,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1661067191,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1661067191,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1661067191,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1661067191,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1661067191,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1661067191,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1661067191,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1661067191,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1661067191,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1661067191,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1661067191,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1661067191,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1661067191,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1661067191,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1661067191,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1661067191,"~/.git/COMMIT_EDITMSG"
--'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1661067191,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/jn
+|4,39,1,0,1661098176,"~/jn"
+-'  1  0  ~/jn
+|4,39,1,0,1661098176,"~/jn"
+-'  1  0  ~/jn
+|4,39,1,0,1661098176,"~/jn"
+-'  1  0  ~/jn
+|4,39,1,0,1661098176,"~/jn"
+-'  1  0  ~/jn
+|4,39,1,0,1661098176,"~/jn"
+-'  1  0  ~/jn
+|4,39,1,0,1661098176,"~/jn"
+-'  1  0  ~/jn
+|4,39,1,0,1661098176,"~/jn"
+-'  1  0  ~/jn
+|4,39,1,0,1661098176,"~/jn"
+-'  1  0  ~/jn
+|4,39,1,0,1661098176,"~/jn"
+-'  1  0  ~/jn
+|4,39,1,0,1661098176,"~/jn"
+-'  1  0  ~/jn
+|4,39,1,0,1661098176,"~/jn"
+-'  1  0  ~/jn
+|4,39,1,0,1661098176,"~/jn"
+-'  1  0  ~/jn
+|4,39,1,0,1661098176,"~/jn"
+-'  1  0  ~/jn
+|4,39,1,0,1661098176,"~/jn"
+-'  1  0  ~/jn
+|4,39,1,0,1661098176,"~/jn"
+-'  1  0  ~/jn
+|4,39,1,0,1661098176,"~/jn"
+-'  1  0  ~/jn
+|4,39,1,0,1661098176,"~/jn"
+-'  1  0  ~/jn
+|4,39,1,0,1661098176,"~/jn"
+-'  1  0  ~/jn
+|4,39,1,0,1661098176,"~/jn"
 
 # History of marks within files (newest to oldest):
 
+> ~/somu
+	*	1661181984	0
+	"	1	9
+	^	1	10
+	.	1	9
+	+	1	9
+
+> ~/sktech
+	*	1661180157	0
+	"	2	0
+	^	2	0
+	.	1	10
+	+	1	10
+
 > ~/jn
-	*	1661098207	0
+	*	1661180110	0
 	"	3	0
 	^	3	0
 	.	2	23

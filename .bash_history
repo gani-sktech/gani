@@ -103,3 +103,43 @@ pwd
 ls
 touch gaaaa
 vi
+git init
+vi
+pwd
+ls
+vi
+git status
+git add .
+git status
+git commit -m "commit1"
+git status
+git config --list
+git config --global user.name ganesh-jn
+git config --global user.emailganeshj6281@gmail.com
+git remote -v
+git config -- list
+git config --list
+git remote alias ganesh
+git log
+git init
+touch gani
+ls
+vi jn
+git status
+git add .
+git status
+git commit "1stcommit "
+git status
+git commit -m "commit 1"
+git status
+git config -- list
+git  config --list
+git config --gobal user.name ganesh-jn
+git config -- global user.email ganeshj6281@gmail.com
+pwdwddd
+pwd
+git config --list
+git remote add als 
+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
+git remote add als gh repo clone gani-sktech/gani
+git init
